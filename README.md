@@ -1,2 +1,2 @@
 # floatingturbinesFoam
-[![Image loading]](./doc/WA.png)
+[Image loading](./doc/WA.png)
